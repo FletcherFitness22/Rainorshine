@@ -16,3 +16,4 @@ THEN I am again presented with current and future conditions for that city
 Weather app Javascript line 8 continued to be an issue
 Needs more attention on CSS
 Missing History forcast display
+Help through tutors and youtube tutorials 
