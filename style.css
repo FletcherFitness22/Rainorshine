@@ -1,8 +1,5 @@
-body { background-color: rgb(172, 172, 202);
-    text-align: center;
-}
-
-element id  { 
-    padding: 20%;
-
+body {
+    background-color: rgb(119, 145, 136);
+    align-items: center;
+    text-align-last: center;
 }
