@@ -15,4 +15,4 @@ THEN I am again presented with current and future conditions for that city
 ## Pros and Cons
 Weather app Javascript line 8 continued to be an issue
 Needs more attention on CSS
-Missing History forcast
+Missing History forcast display
