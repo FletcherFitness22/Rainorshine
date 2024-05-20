@@ -1,1 +1,0 @@
-function showImage (getElementById);
